@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bitsystuff&label=Profile views&color=0e75b6&style=flat" alt="bitsystuff" /> </p>
 
 - 📫 How to reach me
-  **Discord: https://bitsystuff.github.io/bitsy/discord**
+ **Discord: https://bitsystuff.github.io/bitsy/discord**
 
-- ⚡ Fun fact **I'm a furry :D**
+- ⚡ Fun fact: **I'm a furry :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
